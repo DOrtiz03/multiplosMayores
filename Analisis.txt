@@ -1,0 +1,1 @@
+Se nos solicita un programa que dados una serie de numeros (distintos de 0) escojamos los 3 numeros de mayor valor y los multipliquemos
